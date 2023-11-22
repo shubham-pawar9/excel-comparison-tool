@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/excel-comparison-tool/static/css/main.b2e858c7.css",
-    "main.js": "/excel-comparison-tool/static/js/main.394874c5.js",
+    "main.js": "/excel-comparison-tool/static/js/main.9f7a571a.js",
     "static/js/787.bfb7abf8.chunk.js": "/excel-comparison-tool/static/js/787.bfb7abf8.chunk.js",
     "static/media/logo.svg": "/excel-comparison-tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/excel-comparison-tool/index.html",
     "main.b2e858c7.css.map": "/excel-comparison-tool/static/css/main.b2e858c7.css.map",
-    "main.394874c5.js.map": "/excel-comparison-tool/static/js/main.394874c5.js.map",
+    "main.9f7a571a.js.map": "/excel-comparison-tool/static/js/main.9f7a571a.js.map",
     "787.bfb7abf8.chunk.js.map": "/excel-comparison-tool/static/js/787.bfb7abf8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2e858c7.css",
-    "static/js/main.394874c5.js"
+    "static/js/main.9f7a571a.js"
   ]
 }
